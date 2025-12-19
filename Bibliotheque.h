@@ -7,6 +7,6 @@ int power( int value, unsigned int pow );
 
 void permutation(int *a, int *b);
 
-void hello();
+void second_degre();
 
 #endif

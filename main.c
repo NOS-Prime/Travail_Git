@@ -28,7 +28,7 @@ void permutation(int *a, int *b){
        *b=c;
     }
 
-void hello(){
+void second_degre(){
   float a, b, c, d, racd, x_0, x_1, x_2;
 
   printf("Entrez le nombre a \n");

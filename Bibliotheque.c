@@ -16,6 +16,6 @@ permutation(&first,&second);
 printf("first= %d # second= %d\n",first,second);
 printf("################################# \n");
 printf("Equation du second degre \n");
-hello();
+second_degre();
 return EXIT_SUCCESS;
 }
